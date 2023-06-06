@@ -1,0 +1,22 @@
+{
+  "name": "learn-git-ignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LumeStack/learn-git-ignore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LumeStack/learn-git-ignore/issues"
+  },
+  "homepage": "https://github.com/LumeStack/learn-git-ignore#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
