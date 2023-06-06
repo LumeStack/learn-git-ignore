@@ -2,3 +2,7 @@ node_modules
 
 #Remove arquivo privado
 cypress/fixtures/example.json
+
+*.txt
+
+package-lock.json
